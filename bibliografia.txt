@@ -1,0 +1,9 @@
+- https://daydreamingnumbers.com/blog/connected-scatterplots/
+- https://github.com/szkics/arcplot
+- https://python-graph-gallery.com/connected-scatter-plot/
+- https://go-cart.io/
+- Wattenberg, M. (2002). Arc Diagrams: Visualizing Structure in Strings. En Proceedings of the IEEE Symposium on Information Visualization.
+- https://datavizcatalogue.com/methods/arc_diagram.html
+- https://www.data-to-viz.com/graph/cartogram.html
+- Gastner, M. T., & Newman, M. E. J. (2004). Diffusion-based method for producing density-equalizing maps. Proceedings of the National Academy of Sciences, 101(20), 7499-7504.
+- https://www.data-to-viz.com/graph/connectedscatter.html
