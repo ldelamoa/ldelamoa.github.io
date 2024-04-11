@@ -11,7 +11,7 @@
 - https://github.com/ldelamoa/ldelamoa.github.io/blob/main/arcdiagram.py
 
 ### 1.3. Visualització generada: 
-- https://github.com/ldelamoa/ldelamoa.github.io/blob/main/connexions_laborals.png
+<span>![</span><span>Arc diagrama</span><span>]</span><span>(</span><span>https://github.com/ldelamoa/ldelamoa.github.io/blob/main/connexions_laborals.png</span><span>)</span>
 
 # 2. Tècnica cartograma:
 
@@ -24,8 +24,9 @@
 - https://github.com/ldelamoa/ldelamoa.github.io/blob/main/spain5_template.xlsx
 
 ### 1.3. Visualització generada (equal area map i cartograma): 
-- https://github.com/ldelamoa/ldelamoa.github.io/blob/main/equal-area-map.svg
-- https://github.com/ldelamoa/ldelamoa.github.io/blob/main/cartogram.svg
+<span>![</span><span>Equal area map</span><span>]</span><span>(</span><span>https://github.com/ldelamoa/ldelamoa.github.io/blob/main/equal-area-map.svg</span><span>)</span>
+
+<span>![</span><span>Cartograma</span><span>]</span><span>(</span><span>https://github.com/ldelamoa/ldelamoa.github.io/blob/main/cartogram.svg</span><span>)</span>
 
 # 3. Tècnica connected scatter plot:
 
@@ -38,5 +39,5 @@
 - https://github.com/ldelamoa/ldelamoa.github.io/blob/main/connected_scatter.py
 
 ### 1.3. Visualització generada: 
-- https://github.com/ldelamoa/ldelamoa.github.io/blob/main/beneficis_hotel.png
+<span>![</span><span>Connected scatter plot</span><span>]</span><span>(</span><span>https://github.com/ldelamoa/ldelamoa.github.io/blob/main/beneficis_hotel.png</span><span>)</span>
 
